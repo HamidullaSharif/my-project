@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Employee_ProfileEntities1-Web.config Connection String" description="Employee_ProfileEntities1 Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.Model.csdl|res://*/Models.Model.ssdl|res://*/Models.Model.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=database-1.c9suuezgsvxf.us-east-2.rds.amazonaws.com,1433;initial catalog=Employee_Profile;user id=admin;password=adminadmin;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Hamidulla\\Downloads\\latest\ \(1\)\\login\ \(2\)\\login\\login\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Employee_ProfileEntities1']/@connectionString" />
+  </parameter>
+</parameters>
